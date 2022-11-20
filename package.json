@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@rocketseat/unform": "^1.5.1",
+    "@rocketseat/unform": "^1.6.2",
     "axios": "^0.21.2",
     "history": "^4.9.0",
     "immer": "^9.0.6",
